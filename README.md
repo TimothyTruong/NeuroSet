@@ -1,4 +1,4 @@
-# COMP 3004 W24 Team Project
+# NeuroSet - EEG Treatment Simulator
 
 > **Team Project**
 > #### Members: Arthur, Hugh, Taseen, Timothy, Norman
